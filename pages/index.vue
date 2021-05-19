@@ -8,6 +8,7 @@
       <h2 class="subtitle">
         URL shortner
       </h2>
+      <img src="icon.png" alt="App icon" />
       <div class="links">
         <a
           href="https://nuxtjs.org/"
